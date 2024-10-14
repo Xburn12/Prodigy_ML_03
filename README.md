@@ -1,2 +1,2 @@
 # Prodigy_ML_03
- Implement asipport vector machine (SVM) to classify images of cats and dogs from the Kaggle
+ Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
